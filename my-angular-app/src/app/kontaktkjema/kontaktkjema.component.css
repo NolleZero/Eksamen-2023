@@ -1,0 +1,33 @@
+.back {
+    width: 100vw;
+    height: 800px;
+    position: absolute;
+    z-index: 306;
+    top: 2000px;
+    background-color: rgb(3, 136, 136);
+    
+}
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+    top:2200px;
+    z-index: 400;
+    position: absolute;
+    left: 500px;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+
+
+  .header{
+    position: absolute;
+    top: 2100px;
+    z-index: 500;
+    font-size: 30px;
+    color: lightgray;
+    left: 400px;
+  }

@@ -1,0 +1,162 @@
+
+.border {
+    width: 800px; 
+    height: 600px;
+    overflow-x: hidden;
+}
+
+
+.logo {
+    z-index: 101;
+    position: absolute;
+    left: 80px;
+}
+
+.fa-twitter {
+    border-color: #309aad;
+    background: #050f11;
+    color: #309aad;
+    z-index: 101;
+    position: absolute;
+    padding: 5px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    left: 1250px;
+    top: 25px;
+  }
+  .fa-facebook {
+    background: #050f11;
+    color: #309aad;
+    z-index: 101;
+    position: absolute;
+    padding: 5px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    left: 1300px;
+    top: 25px;
+  }
+  .fa-linkedin {
+    background: #050f11;
+    color: #309aad;
+    z-index: 101;
+    position: absolute;
+    padding: 2px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    left: 1350px;
+    top: 25px;
+  }
+  .fa-instagram {
+    background: #050f11;
+    color: #309aad;
+    z-index: 101;
+    position: absolute;
+    padding: 2px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    left: 1400px;
+    top: 25px;
+  }
+
+.header_back {
+    z-index: 100;
+    background-color: #050f11;
+    width: 1540px;
+    height: 60px;
+    position: absolute;
+    margin-left: -10px;
+    margin-top: 8px;
+    opacity: 0.6;
+}
+.header_back2 {
+    z-index: 100;
+    background-color: #050f11;
+    width: 1540px;
+    height: 60px;
+    position: absolute;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+
+
+.bilde{
+    position: absolute;
+    z-index: 90;
+    margin-top: -10px;
+    margin-left: -10px;
+    overflow-x: hidden;
+    
+}
+
+
+
+
+.navbar {
+    background-color: #33333300;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0px;
+    left: 450px;
+    font-family: "billo", sans-serif;
+    z-index: 100;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+  }
+  
+  .navbar li {
+    float: left;
+  }
+  
+  .navbar a {
+    display: block;
+    color: rgb(158, 158, 158);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navbar a:hover {
+  
+    color: #ffffff;
+  }
+  
+  .tabs
+{
+  position: absolute;
+  z-index: 101;
+  margin-left: 450px;
+  margin-top: 400px;
+  float: left;
+  height: 500px;
+  width: 500px;
+}
+
+
+.employee{
+    max-height: 1040px;
+    width: 100vw;
+    position: absolute;
+    top: 150px;
+    z-index: 101;
+    background-color: #195964;
+}
+.text{
+    color:#ffffff;
+}

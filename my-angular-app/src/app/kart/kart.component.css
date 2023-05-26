@@ -1,0 +1,29 @@
+google-map{
+
+    position:absolute;
+    top:350px;
+    left: 80px;
+    z-index: 10000;
+    height: 1000px;
+    width: 1000px;
+    left: 280px;
+    color:azure;
+   
+}
+
+.map{
+    top:1000px;
+    position: absolute;
+    left: 100px;
+}
+
+.back {
+    position: absolute;
+    top: 1800;
+    z-index: 300;
+
+}
+
+.finnoss {
+    top: 1000px;
+}
